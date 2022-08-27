@@ -1,4 +1,4 @@
-// //Binary Search
+//Binary Search
 // int binary(int arr[],int n,int key){
 //     int s=0;
 //     int e=n;
